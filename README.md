@@ -21,7 +21,7 @@
 
 - You Can Find About the Data Fields [Here](https://github.com/ITrustNumbers/Advance_Regression_Model_Stacking_Kaggle/tree/master/Original_DataSet)
 
-## 2. Data Cleaning :[Data Cleaning Notebook](https://github.com/ITrustNumbers/Advance_Regression_Model_Stacking_Kaggle/blob/master/Data%20Cleaning.ipynb)
+## 2. Data Cleaning :[(Data Cleaning Notebook)](https://github.com/ITrustNumbers/Advance_Regression_Model_Stacking_Kaggle/blob/master/Data%20Cleaning.ipynb)
 
 ### Outliers Detection 
 
@@ -48,3 +48,5 @@
 > There was a lot of Missing Data in the DataSet as some feature were designed to have some properties reflected by Null Values and Hence, A lot of tranformation was done
 
 ![Missign Data](https://github.com/ITrustNumbers/Advance_Regression_Model_Stacking_Kaggle/blob/master/Visualizations/MissingData_Percentage.png)
+
+> Some Tranformations <br />
