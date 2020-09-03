@@ -1,6 +1,6 @@
 # Advance Regression : Model Stacking with Meta-Modelling
 > This Project is my Entry to a Kaggle Competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)<br>
-The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target Score was to choosen to be < 0.1 
+The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target Score was to chosen to be < 0.1 
 
 ## Result : 
 > I Ranked in the Top 5% in the LeaderBoard, 280th Position out of the 5,110 Entries
@@ -66,7 +66,7 @@ The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target Score 
 
 ### Removed Skew in Feature Distribution
 
-> There was Skew in almost 50% of the Features and some Features had Large amount of it and Hence, Skew as Removed by Using Box Cox Tranformation with Lamda = 0.15 and The Threshold was choosen to be Skew > 0.75
+> There was Skew in almost 50% of the Features and some Features had Large amount of it and Hence, Skew as Removed by Using Box Cox Tranformation with Lamda = 0.15 and The Threshold was chosen to be Skew > 0.75
 
 ![Skewed Features](https://github.com/ITrustNumbers/Advance_Regression_Model_Stacking_Kaggle/blob/master/_Images/Skewed_Feat.png)
 
@@ -82,7 +82,7 @@ The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target Score 
 The Target was to get into top 5% in the kaggle Leaderboard thus, target was to get a RMSLE < 0.1
 
 ### Base Model Scoring
-> Base Model Was Choosen and then were tuned by GridSearchCV and then were Scored to Gauge Performance 
+> Base Model Was Chosen and then were tuned by GridSearchCV and then were Scored to Gauge Performance 
 <br />
 
 - **Lasso Score: 0.1116 (Std: 0.0074)** 
