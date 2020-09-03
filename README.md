@@ -1,6 +1,6 @@
 # Advance Regression : Model Stacking with Meta-Modelling
-> This Project is my Entry to a Kaggle Competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)<br><br>
-The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target RMSLE was to choosen to be < 0.1 
+> This Project is my Entry to a Kaggle Competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)<br>
+The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target Score was to choosen to be < 0.1 
 
 ## Result : 
 > I Ranked in the Top 5% in the LeaderBoard, 280th Position out of the 5,110 Entries
