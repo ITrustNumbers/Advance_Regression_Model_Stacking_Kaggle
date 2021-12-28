@@ -1,4 +1,8 @@
 # Advance Regression : Model Stacking with Meta-Modelling
+
+![Python 3.7](https://img.shields.io/badge/Python-3.7-yellow)  ![Kaggle House Pricing](https://img.shields.io/badge/Tensorflow-2.7.0-blue) ![Val_Acc](https://img.shields.io/badge/Validation%20Acc.-87%25-orange)
+
+
 > This Project is my Entry to a Kaggle Competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)<br>
 The Target was to rank in the Top 5% in the LeaderBoard and Hence, Target Score was to chosen to be < 0.1 
 
